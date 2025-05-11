@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edit_message">nazwa</string>
+    <string name="button_send">buttton send</string>
+    <string name="wprowad_liczb">Wprowadź liczbę</string>
+    <string name="app_name">Licznik</string>
+    <string name="increment">Zwiększ</string>
+    <string name="decrement">Zmniejsz</string>
+    <string name="set_value">Ustaw wartość</string>
+</resources>
